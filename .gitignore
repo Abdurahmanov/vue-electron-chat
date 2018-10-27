@@ -16,3 +16,4 @@ thumbs.db
 *.ntvs*
 *.njsproj
 *.sln
+.idea
