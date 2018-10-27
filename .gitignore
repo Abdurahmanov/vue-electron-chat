@@ -7,5 +7,13 @@ node_modules/
 npm-debug.log
 npm-debug.log.*
 thumbs.db
-.idea
 !.gitkeep
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
